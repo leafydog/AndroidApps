@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="help_instructions">Enter 2 Numbers:</string>
+    <string name="help_result">Result:</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LSU14\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.18\c4bf9dca3b2cbf00f5a3c7c95d4b69f4f14094dd\aws-android-sdk-cognito-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c4bf9dca3b2cbf00f5a3c7c95d4b69f4f14094dd">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.2.18_6aeea6bb535e13aa15e04c66c265a15290c6f2d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_39a969148a4b0e4f251fd26d0975ca270704551a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-lambda\2.2.18\59a0a65641b5c730bc6056e75467a9afcbf9c009\aws-android-sdk-lambda-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="59a0a65641b5c730bc6056e75467a9afcbf9c009">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-lambda-2.2.18_1f105f25109dd6584c6aad33a0de1c33e2f79629\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9c4f3a6bc9820cbbc4563c89c97129f40b45f84f">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f613c239d062280e5d19096be7af1b59dcd3b47a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6b4320e3dd4c204b9a194757324c042fe3500ffc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cfa5d0fc1fec12ef108324eb04f5b4ec2c33876">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_023c7ccef88d07fc64179dd7cc92cc0860b1a158\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.18\802a5fa1642253476592c2ee55930578e499fe63\aws-android-sdk-core-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="802a5fa1642253476592c2ee55930578e499fe63">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.2.18_13fa8894f772268430e9c9f1362f85ec3f41e36e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_7e024a6a3c1f4dd92c8cbd2c33528983ae2ad49c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_14a36398b8ad165e34b13c71249b151f1b55d5d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\LSU14\Desktop\Android_Apps\MySampleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_29fec47cf642d315a532387b0203a84d2677807e\classes.dex" />
+    </item>
+
+</items>
